@@ -1,6 +1,9 @@
 git clone git@github.com:sakarmak/hepmc2root.git
+
 cd hepmc2root
+
 chmod +x setup.sh
+
 source setup.sh
 
 Then go to bin directory and run
